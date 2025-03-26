@@ -3,12 +3,12 @@
 ---
 
 <p align="center">
-  <img width="1000" src="https://cdn.discordapp.com/attachments/635625925748457482/864406818545860659/unknown.png" alt="Material Bread logo">
+  <img width="1000" src="https://github.com/codypearce/material-bread/blob/master/public/logo-shadow.svg">
 </p>
 
-A project which aims at making your life more convenient by putting a bunch of neofetch configs in a single place.
+A project which aims at making your life more corolful by putting a bunch of neofetch configs in a single place.
 
-Video Showcase/Tutorial: https://www.youtube.com/watch?v=aQ44CafqcH0&feature=youtu.be
+Video Showcase/Tutorial: https://www.youtube.com/watch?v=aQ44CafqcH0
 
 <h4 align="center"> 
 <a href="https://discord.gg/tuWnYReXbS">Discord</a> • <a href="https://www.reddit.com/user/Chicki2D/">Reddit</a> • <a href="https://github.com/Chick2D">Github</a>
@@ -16,12 +16,12 @@ Video Showcase/Tutorial: https://www.youtube.com/watch?v=aQ44CafqcH0&feature=you
 
 # Normal:
 
-[insert name](https://github.com/chick2d/neofetch-themes/blob/main/normal/config.conf)
+[electric boogaloo](https://github.com/chick2d/neofetch-themes/blob/main/normal/config.conf)
 ---
 ![](https://github.com/user-attachments/assets/21d05f21-9645-4d5d-b47b-023fb83047a2)
 
 
-[insert name 2 electric boogaloo](https://github.com/chick2d/neofetch-themes/blob/main/normal/config2.conf)
+[electric boogaloo2](https://github.com/chick2d/neofetch-themes/blob/main/normal/config2.conf)
 ---
 ![](https://github.com/user-attachments/assets/a7fe89af-fc42-4248-b6d6-8368352826ab)
 

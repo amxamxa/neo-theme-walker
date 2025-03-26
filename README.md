@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img width="1000" src="https://github.com/codypearce/material-bread/blob/master/public/logo-shadow.svg">
+  <img width="200" src="https://github.com/codypearce/material-bread/blob/master/public/logo-shadow.svg">
 </p>
 
 A project which aims at making your life more corolful by putting a bunch of neofetch configs in a single place.
